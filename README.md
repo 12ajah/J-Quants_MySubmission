@@ -104,22 +104,22 @@ LSTMではシードの固定をしておりません。
 
 個人ブログに本コンペのモデル構築の一連の流れを掲載しております。  
 ---------第1回---------  
-タイトル：<a href="https://ken2blog.tokyo/study/%e3%80%90signate%e3%80%91jpx-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e5%88%86%e6%9e%90%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e3%81%ab%e9%96%a2%e3%81%99/">【SIGNATE】JPX ニュース分析:ニュースに関するEDA</a>  
+タイトル：<a href="https://www.systrenote.com/signate_jpx_news/">【SIGNATE】JPX ニュース分析:ニュースに関するEDA</a>  
 記事内容：  
 ニュースの写真の有無のリターンへの影響、記事の文字数のリターンの影響、ニュースそのものが株価に影響を与えているか(イベントスタディ分析)  
 
 ---------第2回---------  
-タイトル：<a href="https://ken2blog.tokyo/study/%e3%80%90signate%e3%80%91jpx-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e5%88%86%e6%9e%90%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e5%9f%ba%e3%81%a5%e3%81%8f%e5%80%8b%e5%88%a5%e9%8a%98%e6%9f%84%e3%81%ae/">【SIGNATE】JPX ニュース分析:ニュースに基づく個別銘柄の予測</a>  
+タイトル：<a href="https://www.systrenote.com/signate_jpx_news_2/">【SIGNATE】JPX ニュース分析:ニュースに基づく個別銘柄の予測</a>  
 記事内容：  
 個別銘柄のBERT特徴量から株価を予測する簡単なモデルを構築  
 
 ---------第3回---------  
-タイトル：<a href="https://ken2blog.tokyo/study/%e3%80%90signate%e3%80%91jpx-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e5%88%86%e6%9e%90%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e3%81%ab%e5%9f%ba%e3%81%a5%e3%81%8f%e5%90%84%e6%a5%ad%e7%a8%ae%e3%81%ae/">【SIGNATE】JPX ニュース分析:ニュースに基づく各業種の分析</a>  
+タイトル：<a href="https://www.systrenote.com/signate_jpx_news_3/">【SIGNATE】JPX ニュース分析:ニュースに基づく各業種の分析</a>  
 記事内容：  
 業種区分やクラスタリングのグループとリターンの関係について分析  
 
 ---------第4回---------  
-タイトル：<a href="https://ken2blog.tokyo/study/%e3%80%90signate%e3%80%91jpx-%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9%e5%88%86%e6%9e%90%e3%83%9d%e3%83%bc%e3%83%88%e3%83%95%e3%82%a9%e3%83%aa%e3%82%aa%e7%b5%84%e6%88%90%e6%88%a6%e7%95%a5%e3%81%a8/">【SIGNATE】JPX ニュース分析:ポートフォリオ組成戦略と提出</a>  
+タイトル：<a href="https://www.systrenote.com/signate_jpx_news_4/">【SIGNATE】JPX ニュース分析:ポートフォリオ組成戦略と提出</a>  
 記事内容：  
 第3回までの結果を踏まえたニュース記事のみに基づくポートフォリオ組成とコンペへの投稿  
 
